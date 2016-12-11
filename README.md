@@ -15,6 +15,6 @@ Clone from Github.
 
 ## Controls
 
-`Left`, `Right`, `Down` and `Up` arrows to move.
+`Enter` to start and pause.
 
-`Enter` to pause.
+`Left`, `Right`, `Down` and `Up` arrows to move.
