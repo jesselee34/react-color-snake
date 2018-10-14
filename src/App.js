@@ -50,7 +50,7 @@ const App = ({frame, food}) => {
 			frame.board = getBoardDimentions();
 
 			// Start the game loop.
-			let loop = setInterval(draw, 1000/60, store, frame); // 60 fps
+			setInterval(draw, 1000/60, store, frame); // 60 fps
 
 			// Kick it off
 			draw(store, frame);

@@ -1,6 +1,5 @@
 export default (abs, width, height) => {
 	let face = abs[0];
-	let result;
 	if( face.x > width ){
 		face.x = 0;
 	} else if ( face.x < 0) {
